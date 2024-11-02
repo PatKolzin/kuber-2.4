@@ -81,8 +81,8 @@
 
 Согласно манифесту роли и ее привязке к Namespace, у пользователя `pat` есть доступ подам, их логам и описанию.
 
-5. Ссылка на манифест [Pod]()
+5. Ссылка на манифест [Pod](https://github.com/PatKolzin/kuber-2.4/blob/main/src/pod.yaml)
 
-   Ссылка на манифест [Role]()
+   Ссылка на манифест [Role](https://github.com/PatKolzin/kuber-2.4/blob/main/src/pod-view-role.yaml)
 
-   Ссылка на манифест [RoleBinding]()
+   Ссылка на манифест [RoleBinding](https://github.com/PatKolzin/kuber-2.4/blob/main/src/pod-view-rolebinding.yaml)
